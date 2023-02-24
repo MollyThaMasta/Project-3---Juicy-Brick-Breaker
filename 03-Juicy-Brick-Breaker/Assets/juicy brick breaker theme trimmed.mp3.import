@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/juicy brick breaker theme trimmed.mp3-6283b34b35981c748f178d3faec3d389.mp3str"
+
+[deps]
+
+source_file="res://Assets/juicy brick breaker theme trimmed.mp3"
+dest_files=[ "res://.import/juicy brick breaker theme trimmed.mp3-6283b34b35981c748f178d3faec3d389.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
